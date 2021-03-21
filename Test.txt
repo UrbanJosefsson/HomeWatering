@@ -1,3 +1,4 @@
 //Test dok
 
-Här kan vi skriva all skönans text. Exempelvis en loggbok om vad som är gjort.
+// Här kan vi skriva all skönans text. Exempelvis en loggbok om vad som är gjort.
+/* */
